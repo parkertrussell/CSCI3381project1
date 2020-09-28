@@ -1,0 +1,24 @@
+515
+Parker
+Trussell
+501-358-1119
+infected
+417, 341, 455
+417
+John
+Smith
+501-222-3333
+unknown
+515
+341
+Betty
+Joe
+501-123-4567
+infected
+515, 455
+455
+Bo
+James
+501-112-2223
+unknown
+515, 455
