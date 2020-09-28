@@ -1,3 +1,4 @@
+//Parker Trussell - CSCI3381 (O-O Software Development Java) - Project 1 - Dr. Doderer
 package project1;
 
 import java.util.Scanner;
